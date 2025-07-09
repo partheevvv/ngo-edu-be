@@ -1,3 +1,3 @@
-import authRoutes from './routes/authRoutes.js';
+//import auth from './routes/auth.js';
 
-app.use('/api/auth', authRoutes);
+//app.use('/api/auth', auth);
